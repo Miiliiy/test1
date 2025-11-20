@@ -1,2 +1,4 @@
 # test1
-This is a test project on Datanomics
+Test project repo
+
+-- this is a repository for Python Project 1
